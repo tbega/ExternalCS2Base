@@ -5,7 +5,7 @@
 ![Direct3D9](https://img.shields.io/badge/graphics-d3d9-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-experimental-orange.svg)
 
-A lightweight, external ESP overlay for Counter-Strike 2, written in C and using Direct3D 9.
+A lightweight, external ESP overlay for Counter-Strike 2, written in C using Direct3D 9.
 
 The esp works about as well as you would expect a from-scratch external to, originally wrote using C, I had to switch to C++ as GDI was very laggy. Most of the code is still just basic C.
 
