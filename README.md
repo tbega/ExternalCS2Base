@@ -7,7 +7,7 @@
 
 A lightweight, external ESP overlay for Counter-Strike 2, written in C and using Direct3D 9.
 
-The esp works about as well as you would expect a from-scratch external to, originally wrote using C, I had to switch to C++ as GDI was very laggy. Most of the code is still in C.
+The esp works about as well as you would expect a from-scratch external to, originally wrote using C, I had to switch to C++ as GDI was very laggy. Most of the code is still just basic C.
 
 You can use this if you want as a base for making cheats, or if you just want to use it. I don't really care. 
 Please feel free to contribute, if you have improvments, fixes or the offsets have updated and you want to update them, feel free to. 😆
