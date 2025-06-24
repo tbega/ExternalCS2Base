@@ -261,7 +261,7 @@ void RenderESP(int width, int height, float lerp_alpha) {
         float box_x = sx_head - box_width / 2.0f;
         float box_y = sy_head;
         
-        // if you don't know what this does, you are slow
+        // if you don't know what this does, you are slow // no im not
         DrawBox(box_x, box_y, box_width, box_height, D3DCOLOR_ARGB(255,0,255,0));
     }
 }
